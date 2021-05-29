@@ -40,6 +40,8 @@ This installs the package
         }
 
     })
+    
+client.login(token)
 ```
 
 Using a command handler? No problem!
