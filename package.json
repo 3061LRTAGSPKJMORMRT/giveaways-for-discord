@@ -1,0 +1,29 @@
+{
+  "name": "giveaways-for-discord",
+  "version": "1.0.0",
+  "description": "A package to help create giveaways in Discord!",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/3061LRTAGSPKJMORMRT/giveaways-for-discord"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "discord-giveaways",
+    "javascript",
+    "js",
+    "giveaways"
+  ],
+  "author": "Ashish Emmanuel",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "ms": "^2.1.3",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.3"
+  }
+}
